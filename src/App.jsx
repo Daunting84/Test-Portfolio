@@ -12,6 +12,8 @@ function App() {
     <>
       <div>
         <h1>Test Blob Website</h1>
+        <h1>YAYYYY</h1>
+
         <Spline scene="https://prod.spline.design/qiZTVlaI3hGT-hXj/scene.splinecode" />
       </div>
     </>
